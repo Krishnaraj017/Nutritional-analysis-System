@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "86569962696",
+    "project_id": "rosette-8a9d6",
+    "storage_bucket": "rosette-8a9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86569962696:android:73a867dbd2c3df12d769fd",
+        "android_client_info": {
+          "package_name": "com.rosette.rosette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86569962696-vm4346ble4oi8bqhjqrhrg5qjnqh87og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwpMBQPm-xcVMqpQ77qunx2g0jSO1mk0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86569962696-vm4346ble4oi8bqhjqrhrg5qjnqh87og.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86569962696-t8f3aivgiq5gttqp3i05k0i83t33ua1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosette.rosette"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

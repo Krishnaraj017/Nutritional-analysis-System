@@ -1,0 +1,16 @@
+<resources>
+    <color name="secondary_50">#e0fdff</color>
+    <color name="secondary_100">#b3fbff</color>
+    <color name="secondary_200">#80f8ff</color>
+    <color name="secondary_300">#4df5ff</color>
+    <color name="secondary_400">#26f3ff</color>
+    <color name="secondary">#00f1ff</color>
+    <color name="secondary_600">#00efff</color>
+    <color name="secondary_700">#00edff</color>
+    <color name="secondary_800">#00ebff</color>
+    <color name="secondary_900">#00e7ff</color>
+    <color name="secondary_A100">#ffffff</color>
+    <color name="secondary_A200">#f2feff</color>
+    <color name="secondary_A400">#bff8ff</color>
+    <color name="secondary_A700">#a6f5ff</color>
+</resources>

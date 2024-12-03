@@ -1,0 +1,38 @@
+global_options:
+  freezed:freezed:
+    runs_before:
+      - isar_generator:isar_generator
+
+targets:
+  $default:
+
+    builders:
+      freezed:freezed:
+        generate_for:
+          include:
+            - lib/data/models/**.dart
+            - lib/domain/entities/**.dart
+            - lib/domain/entities/params/**.dart
+      json_serializable:
+        options:
+          explicit_to_json: true
+        generate_for:
+          include:
+            - lib/data/models/**.dart
+            - lib/domain/entities/**.dart
+            - lib/domain/entities/params/**.dart
+      auto_route_generator:auto_router_generator:
+        generate_for:
+          include:
+            - lib/presentation/pages/**.dart
+            - lib/presentation/routes/**.dart
+      injectable_generator:injectable_builder:
+        generate_for:
+          include:
+            - lib/data/data_sources/**.dart
+            - lib/data/repositories/**.dart
+            - lib/domain/repositories/**.dart
+            - lib/presentation/cubits/**.dart
+            - lib/di/**.dart
+            - lib/core/api/**.dart
+            - lib/utils/routes/**.dart

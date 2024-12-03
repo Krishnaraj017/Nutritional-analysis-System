@@ -1,0 +1,16 @@
+<resources>
+    <color name="green_50">#f5ffe0</color>
+    <color name="green_100">#e6ffb3</color>
+    <color name="green_200">#d6ff80</color>
+    <color name="green_300">#c6ff4d</color>
+    <color name="green_400">#b9ff26</color>
+    <color name="green">#adff00</color>
+    <color name="green_600">#a6ff00</color>
+    <color name="green_700">#9cff00</color>
+    <color name="green_800">#93ff00</color>
+    <color name="green_900">#83ff00</color>
+    <color name="green_A100">#ffffff</color>
+    <color name="green_A200">#f8fff2</color>
+    <color name="green_A400">#ddffbf</color>
+    <color name="green_A700">#cfffa6</color>
+</resources>

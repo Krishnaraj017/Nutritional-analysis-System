@@ -1,0 +1,16 @@
+<resources>
+    <color name="primary_50">#e0f2fc</color>
+    <color name="primary_100">#b3dff7</color>
+    <color name="primary_200">#80c9f2</color>
+    <color name="primary_300">#4db3ed</color>
+    <color name="primary_400">#26a3e9</color>
+    <color name="primary">#0093e5</color>
+    <color name="primary_600">#008be2</color>
+    <color name="primary_700">#0080de</color>
+    <color name="primary_800">#0076da</color>
+    <color name="primary_900">#0064d3</color>
+    <color name="primary_A100">#fbfcff</color>
+    <color name="primary_A200">#c8deff</color>
+    <color name="primary_A400">#95c0ff</color>
+    <color name="primary_A700">#7bb1ff</color>
+</resources>
